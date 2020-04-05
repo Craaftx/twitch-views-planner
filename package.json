@@ -1,7 +1,7 @@
 {
   "name": "twitch-views-planner",
   "version": "1.0.0",
-  "description": "Open urls in the browser according to the schedule. Can open multiple streams at once usefull for viewers rewards",
+  "description": "Open streams in the browser according to the schedule. Can open multiple streams at once usefull for viewers rewards",
   "type": "module",
   "main": "index.js",
   "repository": "https://github.com/Craaftx/twitch-views-planner",
